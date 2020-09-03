@@ -1,3 +1,3 @@
 # django-project
 
-Django Project for my live server.
+A Django Project for my live server.
